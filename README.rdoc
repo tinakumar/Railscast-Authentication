@@ -1,7 +1,4 @@
-== Welcome to the Devise Gem Railscast Walkthrough
-
-Devise is the most popular gem to add authentication and authorization to your app.
-Here is a link with more information: https://github.com/plataformatec/devise
+== Welcome to the Authentication Railscast Walkthrough
 
 Here are some steps to get started:
 
@@ -18,5 +15,8 @@ Configure your Users and Sessions controllers.
 Add the current_user and authorize methods to your application controller.
 
 Finally format the views and be sure to include the forms needs for logging in and signing up.
+
+There is also a very popular gem that automates a lot of this. It is called Devise. Devise is the most popular gem to add authentication and authorization to your app.
+Here is a link with more information: https://github.com/plataformatec/devise
 
 
